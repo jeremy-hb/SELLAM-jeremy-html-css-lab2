@@ -1,2 +1,3 @@
 # SELLAM-jeremy-html-css-lab2
-Sorry, i didn't finish
+
+[live demo] (https://jeremy-hb.github.io/SELLAM-jeremy-html-css-lab2/)
